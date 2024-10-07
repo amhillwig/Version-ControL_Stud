@@ -1,3 +1,3 @@
 # Version-ControL
 By Thomas Curry, and ...
-to download git clone ''https://github.com/pitt-sci-cmpinf0010/Version-Control.git''
+to download `git clone https://github.com/Curry-Thomas/Version-Control.git`

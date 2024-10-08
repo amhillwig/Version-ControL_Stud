@@ -1,3 +1,3 @@
 # Version-ControL
 By Thomas Curry, and ...
-to download `git clone https://github.com/Curry-Thomas/Version-Control_Stud.git`
+\nTo download `git clone git@github.com:Curry-Thomas/Version-ControL_Stud.git`
